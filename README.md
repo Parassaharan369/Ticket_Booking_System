@@ -1,1 +1,1 @@
-The README.md is inside Backend Folder
+The README.md file can be found in each of the following directories: Backend/ and Frontend/.
